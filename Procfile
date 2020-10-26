@@ -1,1 +1,1 @@
-web: java -jar SpringSecurityDemo-1.0-SNAPSHOT.jar
+web: java -jar target/SpringSecurityDemo-1.0-SNAPSHOT.jar
