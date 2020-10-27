@@ -1,1 +1,1 @@
-web: java -jar target/SpringSecurityDemo-1.0-SNAPSHOT.jar
+web: mvn spring-boot:run
